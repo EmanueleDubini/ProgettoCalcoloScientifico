@@ -8,13 +8,13 @@ Questo progetto ha lo scopo di studiare e confrontare l'implementazione del meto
 Questa cartella contiene i file delle matrici e gli script necessari per eseguire il progetto utilizzando MATLAB.
 
 ### 2. ProgettoCalcoloScientifico_EJML
-Questa cartella conterrà l'implementazione del progetto utilizzando una libreria open source EJML, in ambiente Windows e Linux.
+Questa cartella conterrà l'implementazione del progetto in Java.
 
 ### 3. ProgettoCalcoloScientifico_Python
-In questa cartella troverai l'implementazione del progetto in Python, utilizzando una libreria open source di tua scelta.
+In questa cartella troverai l'implementazione del progetto in Python.
 
 ### 4. ProgettoCalcoloScientifico_R
-Qui saranno presenti i file necessari per eseguire il progetto in R, utilizzando una libreria open source a tua scelta.
+Qui saranno presenti i file necessari per eseguire il progetto in R.
 
 ### 5. ProgettoCalcoloScientifico_Grafici
 Questa cartella contiene un progetto Python dedicato alla visualizzazione dei grafici rappresentanti memoria, tempo ed errore relativo per la decomposizione di Cholesky e la risoluzione dei sistemi lineari.
