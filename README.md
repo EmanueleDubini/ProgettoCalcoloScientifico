@@ -1,6 +1,6 @@
 # Progetto Calcolo Scientifico
 
-Questo progetto ha lo scopo di studiare e confrontare l'implementazione del metodo di Choleski per la risoluzione di sistemi lineari su matrici sparse, simmetriche e definite positive. Il confronto avverrà tra l'implementazione in MATLAB e in ambienti open source su Windows e Linux.
+Questo è il primo progetto sviluppato per il corso di Metodi del Calcolo Scientifico @Unimib, ha lo scopo di studiare e confrontare l'implementazione del metodo di Choleski per la risoluzione di sistemi lineari su matrici sparse, simmetriche e definite positive. Il confronto avverrà tra l'implementazione in MATLAB e in ambienti open source su Windows e Linux.
 
 ## Contenuto delle Sottocartelle
 
