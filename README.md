@@ -16,6 +16,9 @@ In questa cartella troverai l'implementazione del progetto in Python, utilizzand
 ### 4. ProgettoCalcoloScientifico_R
 Qui saranno presenti i file necessari per eseguire il progetto in R, utilizzando una libreria open source a tua scelta.
 
+### 5. ProgettoCalcoloScientifico_Grafici
+Questa cartella contiene un progetto Python dedicato alla visualizzazione dei grafici rappresentanti memoria, tempo ed errore relativo per la decomposizione di Cholesky e la risoluzione dei sistemi lineari.
+
 ## Matrici Analizzate
 Le matrici simmetriche e definite positive considerate per questo progetto provengono dalla SuiteSparse Matrix Collection. Puoi trovare tutte le matrici collegandoti a [questa pagina](https://sparse.tamu.edu/). Le matrici specifiche che analizzeremo sono:
 - Flan 1565
